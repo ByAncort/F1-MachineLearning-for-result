@@ -1,0 +1,55 @@
+statusId,status
+1,+1 Lap
+2,+2 Laps
+3,+3 Laps
+4,+5 Laps
+5,+6 Laps
+6,Accident
+7,Battery
+8,Brakes
+9,Collision
+10,Collision damage
+11,Cooling system
+12,Damage
+13,Debris
+14,Did not start
+15,Differential
+16,Disqualified
+17,Driveshaft
+18,Electrical
+19,Electronics
+20,Engine
+21,Exhaust
+22,Finished
+23,Front wing
+24,Fuel leak
+25,Fuel pressure
+26,Fuel pump
+27,Gearbox
+28,Hydraulics
+29,Illness
+30,Lapped
+31,Mechanical
+32,Oil leak
+33,Out of fuel
+34,Overheating
+35,Power Unit
+36,Power loss
+37,Puncture
+38,Radiator
+39,Rear wing
+40,Retired
+41,Spun off
+42,Steering
+43,Suspension
+44,Transmission
+45,Turbo
+46,Tyre
+47,Undertray
+48,Vibrations
+49,Water leak
+50,Water pressure
+51,Water pump
+52,Wheel
+53,Wheel nut
+54,Withdrew
